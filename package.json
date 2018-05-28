@@ -1,0 +1,22 @@
+{
+  "name": "baseresponse",
+  "version": "1.0.0",
+  "description": "class response.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlfieriChou/baseresponse.git"
+  },
+  "keywords": [
+    "response"
+  ],
+  "author": "AlfieriChou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlfieriChou/baseresponse/issues"
+  },
+  "homepage": "https://github.com/AlfieriChou/baseresponse#readme"
+}
