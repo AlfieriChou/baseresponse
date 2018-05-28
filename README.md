@@ -1,6 +1,8 @@
 # baseresponse
 class response
 
+[![NPM version][npm-image]][npm-url]
+
 ### 示例
 
 ```javascript
@@ -59,3 +61,6 @@ Response.success.setData({a: 10})
 const result = Response.success
 console.log(result) // Response { status: 304, success: 1, message: '成功', data: { a: 10 } }
 ```
+
+[npm-image]: https://img.shields.io/npm/v/baseresponse.svg?style=flat-square
+[npm-url]: https://www.npmjs.com/package/baseresponse
