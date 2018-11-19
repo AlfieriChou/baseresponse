@@ -1,4 +1,7 @@
 # baseresponse
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/AlfieriChou/baseresponse.svg)](https://greenkeeper.io/)
+
 class response
 
 [![NPM version][npm-image]][npm-url]
